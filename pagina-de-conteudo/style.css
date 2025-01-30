@@ -1,0 +1,66 @@
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.top-bar {
+  color: white;
+  background-color: #333;
+  border-bottom: 5px solid rgb(255, 145, 0);
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
+.header {
+  width: 60%;
+  margin: auto;
+
+  padding: 10px;
+}
+#credit {
+  font-size: 10px;
+  margin-bottom: 0;
+}
+#data {
+  font-size: 5px;
+}
+
+.logos img {
+  width: 10px;
+}
+.content1 {
+  width: 50%;
+  margin: auto;
+}
+.top1 {
+  color: rgb(255, 145, 0);
+}
+.foto-de-moedas {
+  width: 100%;
+  margin: auto;
+}
+.destaque {
+  color: rgb(255, 145, 0);
+}
+.normal {
+  font-weight: normal;
+}
+.geladeira {
+  margin-top: 15px;
+}
+.foto-geladeira {
+  width: 100%;
+  margin: auto;
+}
+.imagem-geladeira {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+.footer {
+  width: 100%;
+  height: 50px;
+  background-color: #333;
+  margin-top: 50px;
+}
